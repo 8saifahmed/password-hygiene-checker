@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+
+# Local databases
+*.db
